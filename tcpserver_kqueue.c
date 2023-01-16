@@ -57,6 +57,7 @@ int main()
     }
 
     // Event Loop ⚛️
+    printf("Event loop up and running!🚀⚛️\nWaiting for incoming events📡...\n");
     for (;;)
     {
         // Poll for new events
